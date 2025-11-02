@@ -10,7 +10,6 @@ A sleek and responsive **animated portfolio website** built using **React.js** a
 
 - ⚛️ React.js
 - 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
 
 ## 📁 Features
 
